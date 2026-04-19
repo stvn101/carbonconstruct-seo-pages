@@ -1,0 +1,13 @@
+Initial commit — migrate from manual Vercel deploy to Git
+
+- Pulled live HTML from carbonconstruct-seo-pages.vercel.app
+- Added Vercel config (clean URLs, security headers, cache policy)
+- Added robots.txt + sitemap.xml
+- Set up package.json for local dev (npx serve)
+
+Pages:
+- / (hub)
+- /carbon-reporting-software
+- /construction-carbon-reporting-software
+
+Ready for GitHub push and Vercel Git integration.

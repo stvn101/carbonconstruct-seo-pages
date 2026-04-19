@@ -1,0 +1,13 @@
+{
+  "name": "carbonconstruct-seo-pages",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SEO landing pages for CarbonConstruct — Australian construction carbon reporting software",
+  "scripts": {
+    "build": "echo 'Static site — no build step required'",
+    "dev": "npx serve public -p 3000"
+  },
+  "author": "Steven Jenkins <steven@carbonconstruct.net>",
+  "license": "UNLICENSED",
+  "homepage": "https://carbonconstruct.online"
+}
